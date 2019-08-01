@@ -1,9 +1,9 @@
 import React from 'react';
 
-import SignIn from './SignIn/SignIn';
+import SignIn from '../../components/SignIn/SignIn';
+import SignUp from '../../components/SignUp/SignUp';
 
 import './authentication.scss';
-import SignUp from '../../components/SignUp/SignUp';
 
 const Authentication = () => {
     return (
