@@ -16,7 +16,7 @@
 // export default ShopPage;
 
 import React from 'react';
-import { Route, Switch } from 'react-router-dom';
+import { Route } from 'react-router-dom';
 
 import CollectionsOverview from '../../components/CollectionOverview/CollectionOverview';
 import CollectionPage from '../Collection/Collection';
